@@ -1,0 +1,50 @@
+[
+  {
+    "ParameterKey": "InfrastructureName", 
+    "ParameterValue": "ocp4-76q9r" 
+  },
+  {
+    "ParameterKey": "RhcosAmi", 
+    "ParameterValue": "ami-014514ae47679721b" 
+  },
+  {
+    "ParameterKey": "AllowedBootstrapSshCidr", 
+    "ParameterValue": "10.248.136.96/27" 
+  },
+  {
+    "ParameterKey": "PublicSubnet", 
+    "ParameterValue": "subnet-0da4c90114282c82d,subnet-0ffbc8cf9ee4be8ed,subnet-0f8a7d3e2da0d235a" 
+  },
+  {
+    "ParameterKey": "MasterSecurityGroupId", 
+    "ParameterValue": "sg-05246bddb08f47f30" 
+  },
+  {
+    "ParameterKey": "VpcId", 
+    "ParameterValue": "vpc-0f16f3a7538704b5c" 
+  },
+  {
+    "ParameterKey": "BootstrapIgnitionLocation", 
+    "ParameterValue": "s3://ocp4-infra/bootstrap.ign" 
+  },
+  {
+    "ParameterKey": "AutoRegisterELB", 
+    "ParameterValue": "yes" 
+  },
+  {
+    "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
+    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-1IV547QHEZZG6" 
+  },
+  {
+    "ParameterKey": "ExternalApiTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-P3SW2IR8FN2Y/f52f7a4f12dbd8b3" 
+  },
+  {
+    "ParameterKey": "InternalApiTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-136W9Y9J0JCG3/0e62cbc1d610dbf3" 
+  },
+  {
+    "ParameterKey": "InternalServiceTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-L53D6D4TW2RY/5a2e82f6911539f7" 
+  }
+]
