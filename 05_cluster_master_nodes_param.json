@@ -9,7 +9,7 @@
   },
   {
     "ParameterKey": "AutoRegisterDNS", 
-    "ParameterValue": "no" 
+    "ParameterValue": "yes" 
   },
   {
     "ParameterKey": "PrivateHostedZoneId", 
