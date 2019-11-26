@@ -1,0 +1,30 @@
+[
+  {
+    "ParameterKey": "ClusterName", 
+    "ParameterValue": "ocp4" 
+  },
+  {
+    "ParameterKey": "InfrastructureName", 
+    "ParameterValue": "ocp4-76q9r" 
+  },
+  {
+    "ParameterKey": "HostedZoneId", 
+    "ParameterValue": "Z1BO30US8XLPDE" 
+  },
+  {
+    "ParameterKey": "HostedZoneName", 
+    "ParameterValue": "edwin.mobi" 
+  },
+  {
+    "ParameterKey": "PublicSubnets", 
+    "ParameterValue": "subnet-0da4c90114282c82d,subnet-0ffbc8cf9ee4be8ed,subnet-0f8a7d3e2da0d235a" 
+  },
+  {
+    "ParameterKey": "PrivateSubnets", 
+    "ParameterValue": "subnet-0ee6ee8023918d18a,subnet-0f1a0dc230085bfc9,subnet-022c1a044ac74215f" 
+  },
+  {
+    "ParameterKey": "VpcId", 
+    "ParameterValue": "vpc-0f16f3a7538704b5c" 
+  }
+]

@@ -9,6 +9,6 @@
   },
   {
     "ParameterKey": "SubnetBits", 
-    "ParameterValue": "6" 
+    "ParameterValue": "5" 
   }
 ]
