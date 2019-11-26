@@ -13,11 +13,11 @@
   },
   {
     "ParameterKey": "PrivateHostedZoneId", 
-    "ParameterValue": "<random_string>" 
+    "ParameterValue": "Z0782121EIQRBVMY0LP8" 
   },
   {
     "ParameterKey": "PrivateHostedZoneName", 
-    "ParameterValue": "mycluster.example.com" 
+    "ParameterValue": "ocp4.edwin.mobi" 
   },
   {
     "ParameterKey": "Master0Subnet", 
