@@ -21,15 +21,15 @@
   },
   {
     "ParameterKey": "Master0Subnet", 
-    "ParameterValue": "subnet-0da4c90114282c82d" 
+    "ParameterValue": "subnet-0ee6ee8023918d18a" 
   },
   {
     "ParameterKey": "Master1Subnet", 
-    "ParameterValue": "subnet-0ffbc8cf9ee4be8ed" 
+    "ParameterValue": "subnet-0f1a0dc230085bfc9" 
   },
   {
     "ParameterKey": "Master2Subnet", 
-    "ParameterValue": "subnet-0f8a7d3e2da0d235a" 
+    "ParameterValue": "subnet-022c1a044ac74215f" 
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 
@@ -53,7 +53,7 @@
   },
   {
     "ParameterKey": "AutoRegisterELB", 
-    "ParameterValue": "yes" 
+    "ParameterValue": "yes"
   },
   {
     "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
