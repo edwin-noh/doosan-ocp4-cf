@@ -298,9 +298,6 @@ Resources:
       Subnets: !Ref PrivateSubnets
 
 Outputs:
-  PrivateHostedZoneId:
-    Description: Hosted zone ID for the private DNS, which is required for private records.
-    Value: !Ref IntDns
   ExternalApiLoadBalancerName:
     Description: Full name of the external API load balancer.
     Value: !GetAtt ExtApiElb.LoadBalancerFullName
