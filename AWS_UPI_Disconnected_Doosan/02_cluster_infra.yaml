@@ -69,34 +69,6 @@ Metadata:
         default: "Public Hosted Zone ID"
 
 Resources:
-  ExtApiElb:
-    Type: AWS::ElasticLoadBalancingV2::LoadBalancer
-    Properties:
-      Name: !Join ["-", [!Ref InfrastructureName, "ext"]]
-      IpAddressType: ipv4
-      Subnets: !Ref PublicSubnets
-      Type: network
-
-  IntApiElb:
-    Type: AWS::ElasticLoadBalancingV2::LoadBalancer
-    Properties:
-      Name: !Join ["-", [!Ref InfrastructureName, "int"]]
-      Scheme: internal
-      IpAddressType: ipv4
-      Subnets: !Ref PrivateSubnets
-      Type: network
-
-  ExternalApiListener:
-    Type: AWS::ElasticLoadBalancingV2::Listener
-    Properties:
-      DefaultActions:
-      - Type: forward
-        TargetGroupArn:
-          Ref: ExternalApiTargetGroup
-      LoadBalancerArn:
-        Ref: ExtApiElb
-      Port: 6443
-      Protocol: TCP
 
   ExternalApiTargetGroup:
     Type: AWS::ElasticLoadBalancingV2::TargetGroup
@@ -109,19 +81,6 @@ Resources:
       TargetGroupAttributes:
       - Key: deregistration_delay.timeout_seconds
         Value: 60
-
-  InternalApiListener:
-    Type: AWS::ElasticLoadBalancingV2::Listener
-    Properties:
-      DefaultActions:
-      - Type: forward
-        TargetGroupArn:
-          Ref: InternalApiTargetGroup
-      LoadBalancerArn:
-        Ref: IntApiElb
-      Port: 6443
-      Protocol: TCP
-
   InternalApiTargetGroup:
     Type: AWS::ElasticLoadBalancingV2::TargetGroup
     Properties:
@@ -133,19 +92,6 @@ Resources:
       TargetGroupAttributes:
       - Key: deregistration_delay.timeout_seconds
         Value: 60
-
-  InternalServiceInternalListener:
-    Type: AWS::ElasticLoadBalancingV2::Listener
-    Properties:
-      DefaultActions:
-      - Type: forward
-        TargetGroupArn:
-          Ref: InternalServiceTargetGroup
-      LoadBalancerArn:
-        Ref: IntApiElb
-      Port: 22623
-      Protocol: TCP
-
   InternalServiceTargetGroup:
     Type: AWS::ElasticLoadBalancingV2::TargetGroup
     Properties:
@@ -157,7 +103,7 @@ Resources:
       TargetGroupAttributes:
       - Key: deregistration_delay.timeout_seconds
         Value: 60
-
+  
   RegisterTargetLambdaIamRole:
     Type: AWS::IAM::Role
     Properties:

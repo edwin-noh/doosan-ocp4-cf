@@ -5,11 +5,11 @@
   },
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-76q9r" 
+    "ParameterValue": "ocp4-87v6t" 
   },
   {
     "ParameterKey": "HostedZoneId", 
-    "ParameterValue": "Z1BO30US8XLPDE" 
+    "ParameterValue": "manual-register-in-doosan" 
   },
   {
     "ParameterKey": "HostedZoneName", 
@@ -17,14 +17,14 @@
   },
   {
     "ParameterKey": "PublicSubnets", 
-    "ParameterValue": "subnet-0da4c90114282c82d,subnet-0ffbc8cf9ee4be8ed,subnet-0f8a7d3e2da0d235a" 
+    "ParameterValue": "subnet-0845de34ecc6f934e,subnet-0af3a07efcc2ac80e,subnet-0f83d1983baaf753b" 
   },
   {
     "ParameterKey": "PrivateSubnets", 
-    "ParameterValue": "subnet-0ee6ee8023918d18a,subnet-0f1a0dc230085bfc9,subnet-022c1a044ac74215f" 
+    "ParameterValue": "subnet-09147762311a32810,subnet-0cddc677676dc3a0d,subnet-0ca16bd7933084adf" 
   },
   {
     "ParameterKey": "VpcId", 
-    "ParameterValue": "vpc-0f16f3a7538704b5c" 
+    "ParameterValue": "vpc-0691456ec4ff12159" 
   }
 ]
