@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-76q9r" 
+    "ParameterValue": "ocp4-87v6t" 
   },
   {
     "ParameterKey": "RhcosAmi", 
@@ -9,11 +9,11 @@
   },
   {
     "ParameterKey": "AllowedBootstrapSshCidr", 
-    "ParameterValue": "0.0.0.0/0" 
+    "ParameterValue": "10.248.136.0/24" 
   },
   {
     "ParameterKey": "PublicSubnet", 
-    "ParameterValue": "subnet-0da4c90114282c82d" 
+    "ParameterValue": "subnet-0845de34ecc6f934e" 
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 
@@ -21,7 +21,7 @@
   },
   {
     "ParameterKey": "VpcId", 
-    "ParameterValue": "vpc-0f16f3a7538704b5c" 
+    "ParameterValue": "vpc-0691456ec4ff12159" 
   },
   {
     "ParameterKey": "BootstrapIgnitionLocation", 
@@ -33,18 +33,18 @@
   },
   {
     "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
-    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-1IV547QHEZZG6" 
+    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-O6U5F38O6QWB" 
   },
   {
     "ParameterKey": "ExternalApiTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-P3SW2IR8FN2Y/f52f7a4f12dbd8b3" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-9A2XSX3IANT7/0cf9bdeb7929378a" 
   },
   {
     "ParameterKey": "InternalApiTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-136W9Y9J0JCG3/0e62cbc1d610dbf3" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-120YSP1H48XQ2/165e46325e9cc8a6" 
   },
   {
     "ParameterKey": "InternalServiceTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-L53D6D4TW2RY/5a2e82f6911539f7" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-14ZOA774Z1NMY/c4382536701e6b65" 
   }
 ]
