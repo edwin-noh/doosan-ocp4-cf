@@ -1,0 +1,74 @@
+[
+  {
+    "ParameterKey": "InfrastructureName", 
+    "ParameterValue": "ocp4-76q9r" 
+  },
+  {
+    "ParameterKey": "RhcosAmi", 
+    "ParameterValue": "ami-014514ae47679721b" 
+  },
+  {
+    "ParameterKey": "AutoRegisterDNS", 
+    "ParameterValue": "yes" 
+  },
+  {
+    "ParameterKey": "PrivateHostedZoneId", 
+    "ParameterValue": "Z0782121EIQRBVMY0LP8" 
+  },
+  {
+    "ParameterKey": "PrivateHostedZoneName", 
+    "ParameterValue": "ocp4.edwin.mobi" 
+  },
+  {
+    "ParameterKey": "Master0Subnet", 
+    "ParameterValue": "subnet-0ee6ee8023918d18a" 
+  },
+  {
+    "ParameterKey": "Master1Subnet", 
+    "ParameterValue": "subnet-0f1a0dc230085bfc9" 
+  },
+  {
+    "ParameterKey": "Master2Subnet", 
+    "ParameterValue": "subnet-022c1a044ac74215f" 
+  },
+  {
+    "ParameterKey": "MasterSecurityGroupId", 
+    "ParameterValue": "sg-05246bddb08f47f30" 
+  },
+  {
+    "ParameterKey": "IgnitionLocation", 
+    "ParameterValue": "https://api-int.ocp4.edwin.mobi:22623/config/master" 
+  },
+  {
+    "ParameterKey": "CertificateAuthorities", 
+    "ParameterValue": "data:text/plain;charset=utf-8;base64,LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURFRENDQWZpZ0F3SUJBZ0lJVC9nYnlhcVJ2bjh3RFFZSktvWklodmNOQVFFTEJRQXdKakVTTUJBR0ExVUUKQ3hNSmIzQmxibk5vYVdaME1SQXdEZ1lEVlFRREV3ZHliMjkwTFdOaE1CNFhEVEU1TVRFeU5qQTFOVGcwTVZvWApEVEk1TVRFeU16QTFOVGcwTVZvd0pqRVNNQkFHQTFVRUN4TUpiM0JsYm5Ob2FXWjBNUkF3RGdZRFZRUURFd2R5CmIyOTBMV05oTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUE5ZFZJejFWUHFSemgKVUdIZ2NPdDRIQ0pyazFSWU91MnlLN0laaDM5WXZ3RDRMR2UyS2JQWDBkRnFaWEQ5eTJ2WEZDaXE2SDdUL0NvYgpBYlg3UUt2QkJ5M2E4ekdQbS95dGM3OHl6V1VWYVpuSGgrY2FDdm5uVDduRndaSmZseFQ1ZTBOZUtRdDdWN0J4ClIvdGc2VW1MS0NmblZQS0ZpQ0JHUERWZHVxYXpvMFBma2hYTkxxMW1qSGRGVjJsZk1Kd3dqU2krdEFNQXZtZVEKVC80VkYxb3NsNjNFTkxiSXhFYkhNdmxNQzFmR2liQnBKYzdqbGVIUGo0QTlXVHZBaEFJUkNNam5oTXN6Zzc2cwpBZ1drUy83WkpaS3cxbnlXUFVZNlBQVEtORU1keG5RMkR5M2xPdjJ2dE85cGZhTjU0RjAxWGtRRVJabngxcFNqCjFTMXZOQVRIc3dJREFRQUJvMEl3UURBT0JnTlZIUThCQWY4RUJBTUNBcVF3RHdZRFZSMFRBUUgvQkFVd0F3RUIKL3pBZEJnTlZIUTRFRmdRVTYrandxRWxyelBiamg0SWczeGJDUHVjTlZYUXdEUVlKS29aSWh2Y05BUUVMQlFBRApnZ0VCQU9zdjRlb3RuNkhaT0tLTDFMV21pRnpZenVaTEVZbHJ0QUd2elRyUTBPSkhsQTROQVQweXJDOEIvSzU2Cmh0NzlXODV4THRvMXRRMVpjTG10VklFVENRZVRGU295QjVGS25jRkpWWHdnQ3lUNVp0QVRTVzRxM2YrTjRTMk8KZG5GYm9rblgxQnkzY0hvK0RhQTVoTHdXNFBhUkVNT0FrNUFpQlZRdWZqZHBNVjVUL1VuSTVGUGVkRU8xRU9lUQo2c0IzYXZ6Wkg1eVNOWmtEd2Z4WGpIRlVoNll1U2JuSEdldm1HRUhyZ1pjUmprTHpCTk9VdjhBZU9YUlBmVk9aCmtqck5oVTh4cW5wNmVZL05GZDNwLzJGbDhHN3d6cWVVS21ZTGtjZVg2eFJIVjVib3dXMEQxRGYrN2JiczdzQW4KWi9HWk1uR0tTcnZ6N09MMndxRFhHK2VQRkxVPQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==" 
+  },
+  {
+    "ParameterKey": "MasterInstanceProfileName", 
+    "ParameterValue": "cluster-security-MasterInstanceProfile-1ROOUMQ1VYN27" 
+  },
+  {
+    "ParameterKey": "MasterInstanceType", 
+    "ParameterValue": "m5.xlarge" 
+  },
+  {
+    "ParameterKey": "AutoRegisterELB", 
+    "ParameterValue": "yes"
+  },
+  {
+    "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
+    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-1IV547QHEZZG6" 
+  },
+  {
+    "ParameterKey": "ExternalApiTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-P3SW2IR8FN2Y/f52f7a4f12dbd8b3" 
+  },
+  {
+    "ParameterKey": "InternalApiTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-136W9Y9J0JCG3/0e62cbc1d610dbf3" 
+  },
+  {
+    "ParameterKey": "InternalServiceTargetGroupArn", 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-L53D6D4TW2RY/5a2e82f6911539f7" 
+  }
+]
