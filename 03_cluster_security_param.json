@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-76q9r" 
+    "ParameterValue": "ocp4-87v6t" 
   },
   {
     "ParameterKey": "VpcCidr", 
@@ -9,10 +9,10 @@
   },
   {
     "ParameterKey": "PrivateSubnets", 
-    "ParameterValue": "subnet-0ee6ee8023918d18a,subnet-0f1a0dc230085bfc9,subnet-022c1a044ac74215f" 
+    "ParameterValue": "subnet-09147762311a32810,subnet-0cddc677676dc3a0d,subnet-0ca16bd7933084adf" 
   },
   {
     "ParameterKey": "VpcId", 
-    "ParameterValue": "vpc-0f16f3a7538704b5c" 
+    "ParameterValue": "vpc-0691456ec4ff12159" 
   }
 ]
