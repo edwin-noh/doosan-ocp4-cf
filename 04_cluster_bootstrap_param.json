@@ -17,7 +17,7 @@
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 
-    "ParameterValue": "sg-05246bddb08f47f30" 
+    "ParameterValue": "sg-0febc7364c659669a" 
   },
   {
     "ParameterKey": "VpcId", 
