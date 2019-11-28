@@ -52,6 +52,7 @@ Parameters:
     Default: m5.xlarge
     Type: String
     AllowedValues:
+    - "m4.large"
     - "m4.xlarge"
     - "m5.xlarge"
     - "m4.2xlarge"
