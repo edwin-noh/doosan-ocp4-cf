@@ -21,7 +21,7 @@
   },
   {
     "ParameterKey": "Master0Subnet",
-    "ParameterValue": "subnet-09147762311a32810" 
+    "ParameterValue": "subnet-03d7a50d23de336d0" 
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 

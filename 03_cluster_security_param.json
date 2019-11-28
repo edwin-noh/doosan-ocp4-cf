@@ -9,7 +9,7 @@
   },
   {
     "ParameterKey": "PrivateSubnets", 
-    "ParameterValue": "subnet-09147762311a32810,subnet-0cddc677676dc3a0d,subnet-0ca16bd7933084adf" 
+    "ParameterValue": "subnet-03d7a50d23de336d0,subnet-0c2de28c4d4b59d4a,subnet-02aca35616dc460ea" 
   },
   {
     "ParameterKey": "VpcId", 

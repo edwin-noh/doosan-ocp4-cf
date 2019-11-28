@@ -13,7 +13,7 @@
   },
   {
     "ParameterKey": "PublicSubnet", 
-    "ParameterValue": "subnet-0845de34ecc6f934e" 
+    "ParameterValue": "subnet-0a8ba8118f9be1671" 
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 

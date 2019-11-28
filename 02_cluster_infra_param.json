@@ -17,11 +17,11 @@
   },
   {
     "ParameterKey": "PublicSubnets", 
-    "ParameterValue": "subnet-0845de34ecc6f934e,subnet-0af3a07efcc2ac80e,subnet-0f83d1983baaf753b" 
+    "ParameterValue": "subnet-0a8ba8118f9be1671,subnet-053aa2e5bec476e46,subnet-029fd8e367893209e" 
   },
   {
     "ParameterKey": "PrivateSubnets", 
-    "ParameterValue": "subnet-09147762311a32810,subnet-0cddc677676dc3a0d,subnet-0ca16bd7933084adf" 
+    "ParameterValue": "subnet-03d7a50d23de336d0,subnet-0c2de28c4d4b59d4a,subnet-02aca35616dc460ea" 
   },
   {
     "ParameterKey": "VpcId", 
