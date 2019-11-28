@@ -49,7 +49,7 @@
   },
   {
     "ParameterKey": "MasterInstanceType", 
-    "ParameterValue": "m5.xlarge" 
+    "ParameterValue": "m4.large" 
   },
   {
     "ParameterKey": "AutoRegisterELB", 
