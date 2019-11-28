@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-87v6t" 
+    "ParameterValue": "ocp4-kzgqb" 
   },
   {
     "ParameterKey": "VpcCidr", 
