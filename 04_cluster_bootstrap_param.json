@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-kzgqb" 
+    "ParameterValue": "ocp4-x9l6f" 
   },
   {
     "ParameterKey": "RhcosAmi", 
@@ -13,7 +13,7 @@
   },
   {
     "ParameterKey": "PublicSubnet", 
-    "ParameterValue": "subnet-0a8ba8118f9be1671" 
+    "ParameterValue": "subnet-05593259340f218a6" 
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 
@@ -21,7 +21,7 @@
   },
   {
     "ParameterKey": "VpcId", 
-    "ParameterValue": "vpc-0d36504dc9a101f99" 
+    "ParameterValue": "vpc-016553a2d685b0c14" 
   },
   {
     "ParameterKey": "BootstrapIgnitionLocation", 

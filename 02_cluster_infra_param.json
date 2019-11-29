@@ -5,7 +5,7 @@
   },
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-kzgqb" 
+    "ParameterValue": "ocp4-x9l6f" 
   },
   {
     "ParameterKey": "HostedZoneId", 
@@ -17,14 +17,14 @@
   },
   {
     "ParameterKey": "PublicSubnets", 
-    "ParameterValue": "subnet-0a8ba8118f9be1671,subnet-053aa2e5bec476e46,subnet-029fd8e367893209e" 
+    "ParameterValue": "subnet-05593259340f218a6" 
   },
   {
     "ParameterKey": "PrivateSubnets", 
-    "ParameterValue": "subnet-03d7a50d23de336d0,subnet-0c2de28c4d4b59d4a,subnet-02aca35616dc460ea" 
+    "ParameterValue": "subnet-04563b6dd939a6dbc" 
   },
   {
     "ParameterKey": "VpcId", 
-    "ParameterValue": "vpc-0d36504dc9a101f99" 
+    "ParameterValue": "vpc-016553a2d685b0c14" 
   }
 ]
