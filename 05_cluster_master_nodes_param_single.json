@@ -21,11 +21,11 @@
   },
   {
     "ParameterKey": "Master0Subnet",
-    "ParameterValue": "subnet-03d7a50d23de336d0" 
+    "ParameterValue": "subnet-04563b6dd939a6dbc" 
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 
-    "ParameterValue": "sg-000260a20d485e7db" 
+    "ParameterValue": "sg-09a13f6c03b52de4b" 
   },
   {
     "ParameterKey": "IgnitionLocation", 
