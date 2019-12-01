@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-x9l6f" 
+    "ParameterValue": "ocp4-6z97x" 
   },
   {
     "ParameterKey": "RhcosAmi", 
@@ -21,11 +21,11 @@
   },
   {
     "ParameterKey": "Master0Subnet",
-    "ParameterValue": "subnet-04563b6dd939a6dbc" 
+    "ParameterValue": "subnet-0b77942183ebfafc9" 
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 
-    "ParameterValue": "sg-09a13f6c03b52de4b" 
+    "ParameterValue": "sg-0b0e5fc8ecc8f1349" 
   },
   {
     "ParameterKey": "IgnitionLocation", 
@@ -33,11 +33,11 @@
   },
   {
     "ParameterKey": "CertificateAuthorities", 
-    "ParameterValue": "data:text/plain;charset=utf-8;base64,LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURFRENDQWZpZ0F3SUJBZ0lJUmxyMTZBc3JmL1l3RFFZSktvWklodmNOQVFFTEJRQXdKakVTTUJBR0ExVUUKQ3hNSmIzQmxibk5vYVdaME1SQXdEZ1lEVlFRREV3ZHliMjkwTFdOaE1CNFhEVEU1TVRFeU9UQTROVGN6TWxvWApEVEk1TVRFeU5qQTROVGN6TWxvd0pqRVNNQkFHQTFVRUN4TUpiM0JsYm5Ob2FXWjBNUkF3RGdZRFZRUURFd2R5CmIyOTBMV05oTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUE2RUxZVlhDU1hjSGsKY3pwcDRkRVBVMjdPVHpibHcwTjZaeG1JdXNiSXJiZ0lzQkVxREIwSk40R1VHRWhoUm9BblMxRXoxalcvalhlcgpXY1BLSWlmcWM4a2xVa1FSSnVBMUNSNmlUcytUS2Y5bzhCYjJlQkZRenNTbHNtN1NocHhleXIxQzE4OVhvSzNxCmdReVFhRXBPaVVldnlKVGlkVjdUQ01pY0pGUkN2TmJiYUVwREhHelNNUTB2OTJ6ZmUwaVVLa0xLWE9qYW9GdlkKZzk2d1lZUUpNL3M0ZHFoVEtNa1QyQWtoT1ExeU15aHJ6U0QzVTZWVkpiYzZQYlpQTWgzV0dpd3FFdUV0YzNtRwo0YnVsL1Rwd05DcFVra290N2RPUVFOSnNZdDVadktuVXgvNnlrbDJQWGM1UVAwRFhNSUpacllYZWdsa1hsSkZIClBFVEVQMXo3NFFJREFRQUJvMEl3UURBT0JnTlZIUThCQWY4RUJBTUNBcVF3RHdZRFZSMFRBUUgvQkFVd0F3RUIKL3pBZEJnTlZIUTRFRmdRVWNwUmFZQmVncjByQ29sb0xhOTRMUi9lQkZ6VXdEUVlKS29aSWh2Y05BUUVMQlFBRApnZ0VCQURMcnZLbGZVSzhTWE9pa05XUEJTS2NMNytUVUV4SGR6ZFJRUnpRWUVKR09lZWpIT25FbHNMNytJMERrCm1OVlh5SXZZQUYybGFiT1pVNHgvdkFqemlXWFJ2WWZ3L2M5NWFQOEpQRGpEV20xTVA1QURjZHlLSVNiM25jWVoKYUNBUDFnNGNZNVUrY1RvanNMTmdYQkhkL3BPTnhEckRiejhFSFB6bmNNaExZZVdPVmJSWHl2My9JbExHa1JqOApkbnlNSEhqeXJMWlFXSGpWM2krVVp3Q2dpK2tmcFFQbjN6LzJGc1oxZlBhaUhwc3kxZnhIY2pRTUdIRnhGWFNJCms3Rk9EYjV0elYxSFJ3cGRNSFVvVGtnbTRJZmxYUkEwNkRUMHZmNjNLUS9wT21uZXRYU3F3RGZ1WVRZRVhEdDMKdnhmTytrb2l2Q1BQSFRWWmhRQXdoK0VnM0VzPQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==" 
+    "ParameterValue": "data:text/plain;charset=utf-8;base64,LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURFRENDQWZpZ0F3SUJBZ0lJZDNXVXI0c1hRcUl3RFFZSktvWklodmNOQVFFTEJRQXdKakVTTUJBR0ExVUUKQ3hNSmIzQmxibk5vYVdaME1SQXdEZ1lEVlFRREV3ZHliMjkwTFdOaE1CNFhEVEU1TVRFek1EQTRORFF3TWxvWApEVEk1TVRFeU56QTRORFF3TWxvd0pqRVNNQkFHQTFVRUN4TUpiM0JsYm5Ob2FXWjBNUkF3RGdZRFZRUURFd2R5CmIyOTBMV05oTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUEydjFCVHVxc0tqby8KZmIxYWIwSFErQjFOb0d3aCtBUzgrS2hPWXdYWjFOK1JOZ2ZRTjZadU0xU2pCa0JxYjRyeUFWUnVLU20wbTNEcgpPYXBPL1RoMGM1U0k0U0tMdW9QYk5TL1JOUlZyaFQ0eW9rYjNKNU9sdlNjNHc4bUozdlBaU2J1SWhkUlM1RDN2CjEvblZ2RFZTYys4NkEwbVFBclZKU29YbXJ4RUtKWXh6K2UzOEVrMzhyTFBSbE5IN05xd25qMWRFYXQrRVA2MmkKLzRkcGRQZEVLME05a3NqVmhtZmpXS1hRaEo0RFBJRnE1dWY1eUh3Rko4Vm9JZEFuSHZDd1J5d2RQeXdjdXpKVgp1eWlNRW1JeEdSUTVkbzI1TFJlRXYraERZb0lWSmRERTI2NEx2YUhYUC9VaDhSc0k3aFhsMjIzMDNEQmdTbmltCjBiaFcydGJEUVFJREFRQUJvMEl3UURBT0JnTlZIUThCQWY4RUJBTUNBcVF3RHdZRFZSMFRBUUgvQkFVd0F3RUIKL3pBZEJnTlZIUTRFRmdRVUpjZ3lXL1lZemtPMEVsTGZqL2VWSmU3Y0hlMHdEUVlKS29aSWh2Y05BUUVMQlFBRApnZ0VCQU5hNExsaGhwYmNMcUlHeVJnT2l2MGVOMDdjejlHamxWNklMMjdHSlZmRkVLWTdiOTBrQWxmemc3TmlaCmFLa0RqdEJzNmx4WWhLS0ZPMGRmTXNhaFhjdkJWeDJaNERUcUJYa1NXZzZtRXZVZTZ5WDE0NXZMV2lSYkhYYVcKOGhmZXFuMUhsb3pOdFo4ZjNBZk5wQ05oS2NMN1FpWFRTcDFNYWtRQXhuZHJxZHZjTnFBMXUvOXZaTnh0dG1xegpNWWxoekc2K085eHU4RTA1am9XODV5a2MvOVNkbHdZb21XdXMvUWxRVENqTnlZaFVXbmNHaTl2eE9aZ2ZwUWU3CkNoOHRoOGpqZWZ3NExIUVhZc2s0Z2FyZWo4MlZ3SkF2RzFkUkp4RGFVSEhCWW55cTR6L2pWZlBYdWVjS3dEMUYKZFFuSnhMNlNBTVZSYXN0VWdmYmRVTG5TVTl3PQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==" 
   },
   {
     "ParameterKey": "MasterInstanceProfileName", 
-    "ParameterValue": "cluster-security-MasterInstanceProfile-1W048PO5BM4VC" 
+    "ParameterValue": "cluster-security-MasterInstanceProfile-13LH40UZESZI4" 
   },
   {
     "ParameterKey": "MasterInstanceType", 
@@ -49,18 +49,18 @@
   },
   {
     "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
-    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-1CTF2AHCYEA8L" 
+    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-I2C913IPJB4J" 
   },
   {
     "ParameterKey": "ExternalApiTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-15SG03CPTR67M/d2e3c285b6de4468" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-L8IKQ3MNKZHJ/51bbe48786197987" 
   },
   {
     "ParameterKey": "InternalApiTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-T9UA316ZQ9ZD/3cc5e23bfbf40784" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-QGQJSTNKQ4QI/a7c2e8c1b32cccc5" 
   },
   {
     "ParameterKey": "InternalServiceTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-1CIJVGIAUVHT8/46bf7b9ac84bea2b" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-1WKGV1SGDEKKH/82bcc698c4896b2b" 
   }
 ]
