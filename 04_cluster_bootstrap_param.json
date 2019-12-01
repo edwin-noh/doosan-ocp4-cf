@@ -1,7 +1,7 @@
 [
   {
     "ParameterKey": "InfrastructureName", 
-    "ParameterValue": "ocp4-x9l6f" 
+    "ParameterValue": "ocp4-6z97x" 
   },
   {
     "ParameterKey": "RhcosAmi", 
@@ -13,15 +13,15 @@
   },
   {
     "ParameterKey": "PublicSubnet", 
-    "ParameterValue": "subnet-05593259340f218a6" 
+    "ParameterValue": "subnet-06c537c3b7985b9d6"
   },
   {
     "ParameterKey": "MasterSecurityGroupId", 
-    "ParameterValue": "sg-09a13f6c03b52de4b" 
+    "ParameterValue": "sg-0b0e5fc8ecc8f1349" 
   },
   {
     "ParameterKey": "VpcId", 
-    "ParameterValue": "vpc-016553a2d685b0c14" 
+    "ParameterValue": "vpc-0e01764bf0c2bba40" 
   },
   {
     "ParameterKey": "BootstrapIgnitionLocation", 
@@ -33,18 +33,18 @@
   },
   {
     "ParameterKey": "RegisterNlbIpTargetsLambdaArn", 
-    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-1CTF2AHCYEA8L" 
+    "ParameterValue": "arn:aws:lambda:ap-northeast-2:676784458394:function:cluster-network-RegisterNlbIpTargets-I2C913IPJB4J" 
   },
   {
     "ParameterKey": "ExternalApiTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-15SG03CPTR67M/d2e3c285b6de4468" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Exter-L8IKQ3MNKZHJ/51bbe48786197987" 
   },
   {
     "ParameterKey": "InternalApiTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-T9UA316ZQ9ZD/3cc5e23bfbf40784" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-QGQJSTNKQ4QI/a7c2e8c1b32cccc5" 
   },
   {
     "ParameterKey": "InternalServiceTargetGroupArn", 
-    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-1CIJVGIAUVHT8/46bf7b9ac84bea2b" 
+    "ParameterValue": "arn:aws:elasticloadbalancing:ap-northeast-2:676784458394:targetgroup/clust-Inter-1WKGV1SGDEKKH/82bcc698c4896b2b" 
   }
 ]
